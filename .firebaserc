@@ -1,6 +1,7 @@
 {
   "projects": {
-    "JoinTestDb": "join-tasksdb"
+    "JoinTestDb": "join-tasksdb",
+    "default": "joindb-ff8f3"
   },
   "targets": {},
   "etags": {}
